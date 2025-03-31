@@ -5,6 +5,7 @@
 
 # testing
 /coverage
+lighthouse_accessibility_scores.csv
 
 # production
 /build
